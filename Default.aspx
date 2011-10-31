@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
     
-        <input type="text" ID="Input" runat="server" style="" /><asp:Button ID="Submit" 
+        <input type="text" ID="Input" runat="server" /><asp:Button ID="Submit" 
             runat="server" Text="Submit" onclick="Submit_Click" />
         <br />
         <asp:ListBox ID="FriendsList" runat="server" Width="175px"></asp:ListBox>
